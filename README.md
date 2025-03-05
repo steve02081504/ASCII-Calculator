@@ -12,7 +12,7 @@
 
 ## 比赛规则
 
-- 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（ https://madnight.github.io/githut/#/pull_requests/2024/1 ）
+- 不限制编程语言，只要它曾在 [Github 语言统计]( https://madnight.github.io/githut/#/pull_requests/2024/1 )中出现过，并且图灵完备
 - 程序不得依赖于特殊的编译/执行命令、环境变量、文件名等，也不可通过网络请求作弊
 - 限制使用已存在的（截止题目发布前）依赖；推荐使用原生方法解决
 - 代码不允许雷同，以最早发布的PR为有效
