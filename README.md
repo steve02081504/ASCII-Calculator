@@ -9,7 +9,7 @@
 限定条件：代码仅可使用ASCII字符（聊胜于无）
 
 计分规则：代码字符的ASCII码之和（包括换行符）；ASCII码之和最小者优胜。
-
+https://try.ruby-lang.org/
 ## 比赛规则
 
 - 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（https://madnight.github.io/githut/#/pull_requests/2024/1）
@@ -46,6 +46,7 @@ E.g.
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | HisAtri | JustForFun | 3461 | Python | 玩一玩而已 |
 | 2 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 3 | hwang | RubyForFun | 595 | Ruby | 感谢Claude |
 
 ## 奖品
 
