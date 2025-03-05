@@ -1,3 +1,3 @@
 ```powershell
-"test" | ./test2/a.ps1
+"test" | ./test3/a.ps1
 ```

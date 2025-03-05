@@ -47,7 +47,7 @@ E.g.
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
 | 2 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
 | 3 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
-| 4 | steve02081504 | test2 | 2606 | PowerShell | 啊？|
+| 4 | steve02081504 | test2 | 2506 | PowerShell | 啊？|
 | 5 | LiBr | fun_python | 3155 | Python | 极限压行！|
 | 6 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
