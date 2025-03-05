@@ -1,2 +1,2 @@
 #include <stdio.h>
-int main(){int a,b;while((b=getchar())!='\n')a+=b;printf("%d",a);}
+int main(){int A,B;while((B=getchar())!='\n')A+=B;printf("%d",A);}
