@@ -46,10 +46,12 @@ E.g.
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
 | 2 | [steve02081504](https://github.com/steve02081504) | [test5](./steve02081504/test5) | 1972 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
-| 3 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
-| 4 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
-| 5 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 6 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 3 | Yuhanawa | R | 2002 | R | ? |
+| 4 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
+| 5 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
+| 6 | steve02081504 | test2 | 2606 | PowerShell | 啊？|
+| 7 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 8 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 
