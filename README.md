@@ -9,7 +9,7 @@
 限定条件：代码仅可使用ASCII字符（聊胜于无）
 
 计分规则：代码字符的ASCII码之和（包括换行符）；ASCII码之和最小者优胜。
-https://try.ruby-lang.org/
+
 ## 比赛规则
 
 - 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（https://madnight.github.io/githut/#/pull_requests/2024/1）

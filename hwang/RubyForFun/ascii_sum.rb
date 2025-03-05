@@ -1,1 +1,1 @@
-p$<.sum
+p gets.sum-10
