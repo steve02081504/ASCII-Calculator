@@ -3,6 +3,4 @@
 - RubyForFun
 
 [在线运行Ruby](https://try.ruby-lang.org/)
-```
-p"ABC".sum
-```
+顺便减10，处理换行符
