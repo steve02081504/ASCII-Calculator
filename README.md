@@ -12,7 +12,7 @@
 
 ## 比赛规则
 
-- 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（https://madnight.github.io/githut/#/pull_requests/2024/1）
+- 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（ https://madnight.github.io/githut/#/pull_requests/2024/1 ）
 - 程序不得依赖于特殊的编译/执行命令、环境变量、文件名等，也不可通过网络请求作弊
 - 限制使用已存在的（截止题目发布前）依赖；推荐使用原生方法解决
 - 代码不允许雷同，以最早发布的PR为有效
@@ -45,7 +45,7 @@ E.g.
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
-| 2 | steve02081504 | test4 | 2375 | PowerShell | 啊？|
+| 2 | [steve02081504](https://github.com/steve02081504) | [test5](./steve02081504/test5) | 1972 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
 | 3 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
 | 4 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
 | 5 | LiBr | fun_python | 3155 | Python | 极限压行！|
