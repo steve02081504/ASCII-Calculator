@@ -49,7 +49,7 @@ E.g.
 | 3 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
 | 4 | steve02081504 | test2 | 2606 | PowerShell | 啊？|
 | 5 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 6 | Yuhanawa | Rust | 7820 | Rust | awa |
+| 6 | Yuhanawa | Rust | 4829 | VBScript | 全程唯一一个带GUI的版本 |
 | 7 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
