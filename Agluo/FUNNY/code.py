@@ -1,1 +1,1 @@
-print(sum(map(ord,input())))
+print(sum(input().encode()))
