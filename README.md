@@ -45,8 +45,9 @@ E.g.
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
-| 2 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 3 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 2 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
+| 3 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 4 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 
