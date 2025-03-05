@@ -1,7 +1,8 @@
 # Yuhanawa
 
 - R 得分： 2002
-  - 在R的控制台中输入`sum(utf8ToInt(scan(,"")))`
+  - 在RGui中打开main.r, 按下F5运行
+  - 或者直接在R Console中输入`sum(utf8ToInt(scan(,"")))`
 - VBS 得分： 4829
   - 双击运行
 - C 得分： 6960
