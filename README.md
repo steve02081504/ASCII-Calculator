@@ -44,9 +44,10 @@ E.g.
 
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | HisAtri | JustForFun | 3461 | Python | 玩一玩而已 |
-| 2 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
-| 3 | hwang | RubyForFun | 595 | Ruby | 感谢Claude |
+| 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
+| 2 | hwang | PythonForFun| 2469|Python| 再极限也没用！|
+| 3 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 4 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 
