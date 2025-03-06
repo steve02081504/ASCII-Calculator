@@ -1,1 +1,1 @@
-$CA|SUM
+SUM $CA
