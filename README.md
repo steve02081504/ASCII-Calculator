@@ -51,9 +51,8 @@ E.g.
 | 5 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
 | 6 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
 | 7 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
-| 8 | steve02081504 | test2 | 2606 | PowerShell | 啊？|
-| 9 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 10 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 8 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 9 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 
