@@ -12,7 +12,7 @@
 
 ## 比赛规则
 
-- 不限制编程语言，只要它曾在 Github 语言统计中出现过，并且图灵完备（https://madnight.github.io/githut/#/pull_requests/2024/1）
+- 不限制编程语言，只要它曾在 [Github 语言统计]( https://madnight.github.io/githut/#/pull_requests/2024/1 )中出现过，并且图灵完备
 - 程序不得依赖于特殊的编译/执行命令、环境变量、文件名等，也不可通过网络请求作弊
 - 限制使用已存在的（截止题目发布前）依赖；推荐使用原生方法解决
 - 代码不允许雷同，以最早发布的PR为有效
@@ -45,12 +45,14 @@ E.g.
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
-| 2 | Yuhanawa | R | 2002 | R | ? |
-| 3 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
-| 4 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
-| 5 | steve02081504 | test2 | 2606 | PowerShell | 啊？|
-| 6 | LiBr | fun_python | 3155 | Python | 极限压行！|
-| 7 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
+| 2 | Yuhanawa | MATLAB | 1243 | MATLAB | ? |
+| 3 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
+| 4 | agluo | funny3 | 1997 | Perl | trytry |
+| 5 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
+| 6 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
+| 7 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
+| 8 | LiBr | fun_python | 3155 | Python | 极限压行！|
+| 9 | Hantong | RustForFun | 11824 | Rust | Rust 还能更少么 |
 
 ## 奖品
 

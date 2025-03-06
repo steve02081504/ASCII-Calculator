@@ -1,9 +1,11 @@
 # Yuhanawa
 
+- MATLAB 得分： 1243
+  - 在线运行: https://www.mycompiler.io/view/2ae04xKfIHe
 - R 得分： 2002
   - 在RGui中打开main.r, 按下F5运行
   - 或者直接在R Console中输入`sum(utf8ToInt(scan(,"")))`
-- PS 得分： 2266
+- PS 得分： 2183
   - `"ABC"|.\main.ps1`
 - JS1 得分： 3015
 - JS2 得分： 3522
