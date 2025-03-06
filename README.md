@@ -45,9 +45,9 @@ E.g.
 | 排名 | 作者 | 项目 | 分数 | 语言 | 你的留言 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | Phantasia | whoami | 966 | Ruby | 没力气了 |
-| 2 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
-| 3 | agluo | funny3 | 1997 | Perl | trytry |
-| 4 | Yuhanawa | R | 2002 | R | ? |
+| 2 | Yuhanawa | MATLAB | 1243 | MATLAB | ? |
+| 3 | [steve02081504](https://github.com/steve02081504) | [test6](./steve02081504/test6) | 1924 | [PowerShell](https://github.com/PowerShell/PowerShell) | 啊？|
+| 4 | agluo | funny3 | 1997 | Perl | trytry |
 | 5 | hwang | PythonForFun| 2450|Python| 再极限也没用！|
 | 6 | 1222qs | PythonForFun | 2479 | Python | 你的留言 |
 | 7 | MirageTurtle | ElispForFun | 2496 | Elisp | 其实不会 Elisp |
