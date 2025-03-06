@@ -1,1 +1,1 @@
-SUM $CA
+C%SUM
